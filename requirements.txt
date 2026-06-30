@@ -1,0 +1,7 @@
+google-generativeai
+google-genai
+groq
+python-dotenv
+pydantic
+loguru
+tavily-python
